@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=220&section=header&text=YUG%20RATHEE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=220&section=header&text=YUG%20RATHEE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18" width="100%"/>
+
 
 <a href="https://www.linkedin.com/in/yug-rathee-a1388b333/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
