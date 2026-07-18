@@ -138,6 +138,8 @@ Hyper-local, verified network for university students — anonymous posts, real-
 
 `Client-Side Filtering` `Reactive Feed Indexing` `State Management`
 
+[**→ Live App Link**](https://play.google.com/store/apps/details?id=com.yugrathee.uniconfess.app&hl=en-US)
+
 </td>
 <td width="50%" valign="top">
 
@@ -147,6 +149,9 @@ Hyper-local, verified network for university students — anonymous posts, real-
 Multi-threaded crawlers processing millions of raw Hinglish web records into high-fidelity arrays for downstream NLP/LLM training.
 
 `Distributed Scraping` `Auto-Cleaning` `Tokenization`
+
+[**→ Live Dataset link**](https://huggingface.co/datasets/Yugrathee28/Hinglish-dataset)
+
 
 </td>
 </tr>
@@ -241,6 +246,6 @@ jobs:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theYugrathee&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0EA5E9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=120&section=footer"/>
 
 </div>
