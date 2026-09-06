@@ -124,7 +124,7 @@ Analytics suite helping brands audit and optimize visibility inside generative A
 
 `LLM Parsing Pipelines` `Response Scoring` `Presence Analytics`
 
-[**→ Live Demo**](https://aeo-analyzer.vercel.app)
+[**→ Live Demo**](https://aeo-analyze.vercel.app)
 
 </td>
 </tr>
